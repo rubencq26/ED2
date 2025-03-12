@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1741214601 source:c:\universidad\segundo\ed2\practica1\mconjunto\mconjunto.cpp
-	"mconjunto.h"
-
-1741213484 c:\universidad\segundo\ed2\practica1\mconjunto\mconjunto.h
-	<iostream>
-
