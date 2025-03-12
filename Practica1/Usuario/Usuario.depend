@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1741214065 source:c:\universidad\segundo\ed2\practica1\usuario\main.cpp
+	<iostream>
+	"mconjunto.h"
+
+1741213472 c:\universidad\segundo\ed2\practica1\usuario\mconjunto.h
+	<iostream>
+
+1741805967 source:c:\users\usuario\desktop\practica1\usuario\main.cpp
+	<iostream>
+	"mconjunto.h"
+	"persona.h"
+
+1741806012 c:\users\usuario\desktop\practica1\usuario\mconjunto.h
+	"persona.h"
+	<iostream>
+
+1741804655 c:\users\usuario\desktop\practica1\usuario\persona.h
+	<iostream>
+	<string>
+
